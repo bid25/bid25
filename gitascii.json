@@ -20424,34 +20424,6 @@
       "zIndex": 6
     },
     {
-      "instanceId": "widget_1790673664148",
-      "widgetId": "asciiprofile-heatmap",
-      "position": {
-        "x": 40,
-        "y": 598
-      },
-      "size": {
-        "width": 712,
-        "height": 232
-      },
-      "config": {
-        "accentColor": "#ffa657",
-        "paletteIndex": 3,
-        "palette": [
-          "#161b22",
-          "#450a0a",
-          "#7f1d1d",
-          "#b91c1c",
-          "#ef4444",
-          "#f87171"
-        ],
-        "staticMode": false
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 8
-    },
-    {
       "instanceId": "widget_1790676488170",
       "widgetId": "premium-ascii-dev-score",
       "name": "Premium-ascii-dev-score Widget",
